@@ -1,4 +1,4 @@
-# Prerequisites
+## Prerequisites
 A MongoDB Atlas account
 MongoDB Atlas account
 An Azure account 
