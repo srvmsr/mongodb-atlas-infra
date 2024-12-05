@@ -1,0 +1,7 @@
+atlas_org_id = "<Insert your Atlas Org ID>"
+atlas_project_name = "ProjectName"
+environment = "dev"
+cluster_instance_size_name = "M10"
+cloud_provider = "AZURE"
+atlas_region = "WEST_EUROPE"
+mongodb_version = "7.0"
